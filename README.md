@@ -22,8 +22,12 @@
 #### 📈 Github Stats
 
 <p align = "center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GoncaloMarques-up&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GoncaloMarques-up">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoncaloMarques-up&hide=makefile,cmake,tex&layout=compact&theme=dark&include_all_commits=true&count_private=true&show_icons=true" alt="GoncaloMarques-up"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Happy-Myers
+&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Happy-Myers
+">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Happy-Myers
+&hide=makefile,cmake,tex&layout=compact&theme=dark&include_all_commits=true&count_private=true&show_icons=true" alt="Happy-Myers
+"> 
 </p>
 
 PS: i don't really do HTML, this is all documentation
