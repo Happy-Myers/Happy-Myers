@@ -1,7 +1,5 @@
 ### Hi there, I am Gonçalo Marques👋 ###
-- 🔭 I'm currently studying [@FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial") (year 3/5) <br>
-- 🌱 I’m currently attending the Informatics and Computing Engineering course<br>
-- 😄 Pronouns: he/him<br>
+- 🌱 I have a bachelor's degree in Informatics and Computing Engineering from FEUP<br>
 <br>
 
 ### :wrench: Languages and tools
